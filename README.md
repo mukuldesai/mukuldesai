@@ -104,7 +104,6 @@ I'm a data-driven professional passionate about building full-stack data solutio
 - 📦 Advanced MLOps & Deployment (MLflow, CI/CD, Docker)
 - 📉 Financial Modeling & Quantitative Analysis (CAPM, Monte Carlo)
 - 🌩️ Serverless ETL with AWS Lambda, Glue & Athena
-- 🎓 Preparing for CFA Level 1 (Dec 2025)
 
 ---
 
@@ -117,13 +116,6 @@ I'm a data-driven professional passionate about building full-stack data solutio
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mukuldesai&show_icons=true&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mukuldesai&layout=compact&theme=dark)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mukuldesai&theme=dark)
-
----
 
 ## 🤝 Let’s Connect or Collaborate!
 
