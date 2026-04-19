@@ -63,6 +63,7 @@ Currently embedded with **Johnson & Johnson** via LTI Mindtree, building enterpr
 ## Featured Projects
 
 ### Healthcare Data Reliability Platform
+### Healthcare Data Reliability Platform](https://github.com/mukuldesai12/Healthcare-Data-Reliability-Platform)
 ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat&logo=snowflake&logoColor=white)
 ![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat&logo=dbt&logoColor=white)
 ![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white)
