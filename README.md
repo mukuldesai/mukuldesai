@@ -1,6 +1,6 @@
 # Mukul Desai
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2196F3&width=600&lines=Data+Engineer+%7C+Python+%C2%B7+SQL+%C2%B7+Snowflake+%C2%B7+dbt+ss;Building+pipelines+that+don't+break+silently.;Healthcare+%26+Financial+Services+Data+Platform)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2196F3&width=600&lines=Data+Engineer+%7C+Python+%C2%B7+SQL+%C2%B7+Snowflake+%C2%B7+dbt;Building+pipelines+that+don't+break+silently.;Healthcare+%26+Financial+Services+Data+Platform)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-mukuldesai-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/mukuldesai)
 [![Portfolio](https://img.shields.io/badge/Portfolio-mukuldesai.vercel.app-000000?style=flat&logo=vercel&logoColor=white)](https://mukuldesai.vercel.app)
